@@ -36,7 +36,7 @@ const mongoose = require("mongoose");
 
 const mongoose = require("mongoose");
 
-const URI = "mongodb+srv://gajendrakumar325:gprradha%40123@cluster0.ovbdyjy.mongodb.net/FOODZONEMERN?retryWrites=true&w=majority&appName=Cluster0"
+const URI = "mongodb+srv://gajendrakumar325:**************@cluster0.ovbdyjy.mongodb.net/FOODZONEMERN?retryWrites=true&w=majority&appName=Cluster0"
 
 mongoose.set('strictQuery', false);
 
